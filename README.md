@@ -18,16 +18,8 @@ This application generates Team profiles that provide managers and members with 
 ## Installation
 This application can be installed by cloning it from the project's main branch on GitHub.
 
-## Usage
-From the project's root directory, run Terminal and enter "node index" before hitting the ENTER key. From there, answer the prompts provided, choosing to *not* add another team member once you have completed adding members to your team. 
-
-At this point, an index.html file will be created in the application's /dist folder that will display a page with cards showing all team members information that was provided.
-
-You can also watch this [walkthrough video](https://youtu.be/TaJYDa5ZmIw) to see how this application works. 
-
  ## Languages
  - HTML
- - CSS
  - JavaScript
  
  ## Features
